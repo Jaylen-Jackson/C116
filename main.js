@@ -21,7 +21,7 @@ function modelLoaded() {
 
 function draw() {
     image(video, 0, 0, 300, 300);
-image(clown_nose,noseX-5,noseY+20,30,30);
+image(mustash,noseX-5,noseY+20,30,30);
 }
 
 function take_snapshot(){
